@@ -3,7 +3,7 @@
 
 🌴 Me? I am a progressive full-stack developer, specializing in .NET technologies and Typescript. Professional experience with the technologies listed in the **toolbox** below.
 
-🥁 **Off-topic** I play drums in a rock-band called "Laika Bende".
+🔥 **Off-topic** I play drums in a rock-band called "Laika Bende".
 
 <h3 align="left">My skills</h3>
 
