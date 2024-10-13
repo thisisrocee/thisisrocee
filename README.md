@@ -2,8 +2,6 @@
   
   ### It's good to see you &#127756; at my place
   
-  #### 👉[PORTFOLIO WEBSITE](https://rocee.id.lv/)👈
-  
 </div>
 
 ---
