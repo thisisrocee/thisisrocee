@@ -13,11 +13,11 @@
 <h3 align="left">My skills</h3>
 
 <p>&#9989; Git</p>
-<p>&#9989; C#</p>
-<p>&#9989; .NET</p>
-<p>&#9989; Relational Databases & SQL</p>
-<p>&#9989; HTTP & Web API Basics</p>
-<p>&#9989; Unit Testing</p>
+<p>&#9989; Ruby on Rails</p>
+<p>&#9989; CoffeeScript</p>
+<p>&#9989; Relational Databases & SQL (PostgreSQL, MySQL, SQLite)</p>
+<p>&#9989; Docker</p>
+<p>&#9989; Unit Testing (RSpec, Selenium)</p>
 <p>&#9989; Test Driven Development</p>
 <p>&#9989; Clean Code, SOLID</p>
 <p>&#9989; Design Patterns</p>
@@ -32,6 +32,8 @@
 🚀 Implemented Test-Driven Development methodology to ensure each feature was thoroughly tested, new code didn't break existing functionality, defects were caught early in the development cycle, and improved overall software quality.
 
 🚀 Used SQL to manage and manipulate relational databases, writing queries to extract data, create tables, and modify data structures.
+
+🚀 Complex, and data-intensive Ruby on Rails web application using PostgreSQL and various other tech stack.
 
 ---
 
